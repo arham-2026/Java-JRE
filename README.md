@@ -62,7 +62,9 @@ Windows 10
 6: Thanks For Downloading.
 
 
-**Download Link** <a href="https://t.ly/4D0ti">Download Java JRE</a>
+**Download Link** 
+
+<h3><a href="https://t.ly/4D0ti" style="font-size: 36px;">Download Java JRE</a></h3>
 
 
 
